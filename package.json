@@ -1,6 +1,6 @@
 {
   "name": "@nenado/interpolate-html-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A webpack v4 version of react-dev-utils' InterpolateHtmlPlugin.",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/nenadom/interpolate-html-plugin/issues"
   },
-  "homepage": "https://github.com/nenadom/interpolate-html-plugin#readme"
+  "homepage": "https://github.com/nenadom/interpolate-html-plugin#readme",
+  "dependencies": {
+    "escape-string-regexp": "^1.0.5"
+  }
 }
