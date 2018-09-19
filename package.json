@@ -1,6 +1,6 @@
 {
   "name": "@nenado/interpolate-html-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A webpack v4 version of react-dev-utils' InterpolateHtmlPlugin.",
   "main": "index.js",
   "scripts": {
